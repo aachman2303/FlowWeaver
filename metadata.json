@@ -1,0 +1,5 @@
+{
+  "name": "FlowWeaver",
+  "description": "A visual workflow automation tool powered by Gemini. Build complex integration scenarios using a drag-and-drop canvas or natural language prompts.",
+  "requestFramePermissions": []
+}
